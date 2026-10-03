@@ -201,4 +201,4 @@ msgid "Loading available downloads"
 msgstr "A carregar transferências disponíveis"
 
 msgid "Powered by"
-msgstr "Desenvolvido com"
+msgstr "Alimentado por"
