@@ -140,7 +140,7 @@ msgid "Search version"
 msgstr "Pesquisar versão"
 
 msgid "quickemu was not found in your PATH"
-msgstr "o quickemu não foi encontrado no seu PATH"
+msgstr "O quickemu não foi encontrado no seu PATH"
 
 msgid "Please install it and try again."
 msgstr "Por favor, instale-o e tente novamente."
